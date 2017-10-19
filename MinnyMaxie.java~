@@ -1,0 +1,14 @@
+import java.util.*;
+public class MinnyMaxie {
+  public static void main (String[] args) {
+    Scanner input = Scanner(System.in);
+    int num_1 = nextInt();
+    int num_2 = nextInt();
+    int num_3 = nextInt();
+    int num_4 = nextInt();
+    int num_5 = nextInt();
+    int num_6 = nextInt();
+    int num_7 = nextInt();
+    int num_8 = nextInt();
+    int num_9 = nextInt();
+    int num_10 = nextInt();
