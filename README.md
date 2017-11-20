@@ -1,6 +1,44 @@
 # CS1301
 A repo full of a couple of CS projects I did in Java
 
-## What I Use
+## Getting Started
 
-In CS 1301, We utilized Java programming to learn basic Computer Science Principles
+Compile and Run this code in your preferred Java Compiler
+
+### Prerequisites
+
+Basic Knowledge of Java
+Flow of Control
+Loops
+Variables
+Data Types
+
+```
+Give examples
+```
+
+
+
+## Running the tests
+Open in IDE such as Dr.Java and run
+
+
+## Built With
+
+* Dr. Java
+
+
+
+## Authors
+
+* **Abel George** 
+
+## License
+
+Java JDK
+
+## Acknowledgments
+
+* Hat tip to CSC 1301 GSU Gang
+
+
