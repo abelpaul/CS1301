@@ -8,13 +8,13 @@ Compile and Run this code in your preferred Java Compiler
 ### Prerequisites
 
 Basic Knowledge of Java
+
+
+```
 Flow of Control
 Loops
 Variables
 Data Types
-
-```
-Give examples
 ```
 
 
