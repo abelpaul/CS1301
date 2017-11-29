@@ -1,0 +1,9 @@
+public class Strings {
+  
+public static void main (String[] args)
+{
+  String str1 = "Frodo Baggins";  
+String str2 = "Gandalf the GRAY";  
+
+}
+}
